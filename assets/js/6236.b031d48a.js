@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_workspace_nsb_website||=[]).push([[6236],{6236(e,s,a){a.d(s,{createCynefinServices:()=>c.t});var c=a(9760);a(184)}}]);
